@@ -10,21 +10,23 @@
 - Authors approved public repository release.
 - Raw public data and restricted patient-level data are not redistributed.
 
-## GitHub release sequence
+## Completed GitHub release
 
-1. Confirm the complete ZIP is present in the repository.
-2. Create tag: `v0.1.0-submission`.
-3. Create GitHub release using `GITHUB_RELEASE_NOTES_DRAFT.md`.
+- GitHub repository: https://github.com/T-kevin-2333/gastric-peritoneal-stromal-myeloid-public-transcriptomics
+- Release tag: `v0.1.1-submission`.
+- GitHub release: https://github.com/T-kevin-2333/gastric-peritoneal-stromal-myeloid-public-transcriptomics/releases/tag/v0.1.1-submission
+- Complete archive supplied as split ZIP parts with part-level and original-archive SHA256 checksums.
 
-## Zenodo sequence
+## Completed Zenodo archival
 
-1. Link Zenodo to the GitHub repository.
-2. Archive the GitHub release `v0.1.0-submission`.
-3. Copy the final Zenodo DOI.
-4. Replace manuscript placeholders using `DATA_AVAILABILITY_REPLACEMENT_DRAFT.md` or `scripts/104A_apply_repository_zenodo_urls.py`.
+- Zenodo DOI: https://doi.org/10.5281/zenodo.20694713
+- Zenodo record: https://zenodo.org/records/20694713
+
+## Submission-use text
+
+Use `DATA_AVAILABILITY_REPLACEMENT_DRAFT.md` for the finalized manuscript data/code availability text.
 
 ## Do not do
 
-- Do not invent a Zenodo DOI before deposition.
-- Do not submit `<RECORD_ID>` placeholders to the journal.
 - Do not claim raw public data are hosted in the repository.
+- Do not interpret the repository as wet-lab, causal-mechanism, or clinical-deployment validation.
