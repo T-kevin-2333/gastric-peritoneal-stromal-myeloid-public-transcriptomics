@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Evidence-bounded public transcriptomics prioritises stromal-myeloid composition for validation in gastric cancer peritoneal contexts",
+    "upload_type": "dataset",
+    "description": "Scripts, derived metadata anchors, audit reports, figure source exports and supplementary tables supporting a public-data prioritisation study of gastric cancer peritoneal contexts. Raw public datasets are not redistributed.",
+    "creators": [
+      {
+        "name": "Tong, Jinkai",
+        "affiliation": "Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University; College of Biological Science and Medical Engineering, Donghua University"
+      },
+      {
+        "name": "Chen, Mengyao",
+        "affiliation": "Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University"
+      },
+      {
+        "name": "Li, Ciqin",
+        "affiliation": "Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University"
+      },
+      {
+        "name": "Guo, Cheng",
+        "affiliation": "Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University"
+      },
+      {
+        "name": "Yang, Quanjun",
+        "affiliation": "Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University; College of Biological Science and Medical Engineering, Donghua University"
+      }
+    ],
+    "keywords": [
+      "gastric cancer",
+      "peritoneal context",
+      "single-cell RNA-seq",
+      "spatial transcriptomics",
+      "public transcriptomics",
+      "tumour microenvironment"
+    ],
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "version": "v0.1.0-submission",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/T-kevin-2333/gastric-peritoneal-stromal-myeloid-public-transcriptomics",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}
