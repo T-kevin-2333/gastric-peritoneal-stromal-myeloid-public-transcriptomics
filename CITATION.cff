@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository package, please cite the associated manuscript and archived release DOI."
+title: "Evidence-bounded public transcriptomics prioritises stromal-myeloid composition for validation in gastric cancer peritoneal contexts"
+version: "v0.1.0-submission"
+date-released: "2026-06-15"
+authors:
+  - family-names: Tong
+    given-names: Jinkai
+  - family-names: Chen
+    given-names: Mengyao
+  - family-names: Li
+    given-names: Ciqin
+  - family-names: Guo
+    given-names: Cheng
+  - family-names: Yang
+    given-names: Quanjun
