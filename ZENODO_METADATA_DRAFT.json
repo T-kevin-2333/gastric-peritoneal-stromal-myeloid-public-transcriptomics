@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Evidence-bounded public transcriptomics prioritises stromal-myeloid composition for validation in gastric cancer peritoneal contexts",
     "upload_type": "dataset",
-    "description": "Scripts, derived metadata anchors, audit reports, figure source exports and supplementary tables supporting a public-data prioritisation study of gastric cancer peritoneal contexts. Raw public datasets are not redistributed.",
+    "description": "Scripts, derived metadata anchors, audit reports, figure source exports and supplementary tables supporting a public-data prioritisation study of gastric cancer peritoneal contexts. Raw public datasets are not redistributed. Code and scripts are licensed under MIT; non-code derived materials are licensed under CC BY 4.0 unless otherwise stated.",
     "creators": [
       {
         "name": "Tong, Jinkai",
@@ -35,12 +35,18 @@
     ],
     "access_right": "open",
     "license": "cc-by-4.0",
-    "version": "v0.1.0-submission",
+    "version": "v0.1.1-submission",
+    "doi": "10.5281/zenodo.20694713",
     "related_identifiers": [
       {
         "identifier": "https://github.com/T-kevin-2333/gastric-peritoneal-stromal-myeloid-public-transcriptomics",
         "relation": "isSupplementTo",
         "scheme": "url"
+      },
+      {
+        "identifier": "https://doi.org/10.5281/zenodo.20694713",
+        "relation": "isIdenticalTo",
+        "scheme": "doi"
       }
     ]
   }
